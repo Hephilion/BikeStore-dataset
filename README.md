@@ -10,6 +10,13 @@ This table was then used to create a dashboard in Excel and Tableau.
 
 # Excel Dashboard
 
+Using the the data in the Dataset_Created_by_query.csv file a __dashboard__ was created using __Pivot Tables_ and  some slicers were added to make the dashboard interactive. A preview of the dashboard is shown below:
+
+
+![image](https://user-images.githubusercontent.com/75135852/213317092-633b62b8-ccf2-4c9b-aff2-026832606c09.png)
+![image](https://user-images.githubusercontent.com/75135852/213317127-a996dfe0-2fb6-4984-bb1e-acbae5d8b15e.png)
+
+
 # Tableau Dashboard
 
 https://public.tableau.com/views/Bikestore/Dashboard1?:language=pt-BR&:display_count=n&:origin=viz_share_link
